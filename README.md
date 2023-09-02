@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @NanCunChild
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning MatLab.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can twitter me, @NanCunChild is me. Or Telegram.
+- 👋 Hi, I’m @NanCunChild, a XDU student majoring Microelectronics Science and Engineering.
+- 👀 But, I’m interested in Unity, C, C#, React, HTML, Python, Java and so on. Being derelect in duty...
+- 🌱 I’m currently learning MatLab...  
+- 💞️ I’m looking to collaborate on Echoer Project, Argus Project, WorkOutHelper Project...
+- 📫 You can twitter me, @NanCunChild is me. Or Telegram, the same nickname.
 - If you are Chinese, QICQ:1729138395 is a altnetive idea.
-
-<!---
-NanCunChild/NanCunChild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
+-<a src="nancunchild.top">Welcome to visit my website!</a>
