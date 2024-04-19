@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @NanCunChild, a XDU student majoring Microelectronics Science and Engineering.
 - 👀 But, I’m interested in Unity, C, C#, React, HTML, Python, Java and so on. Being derelect in duty...
-- 🌱 I’m currently learning MatLab...  
+- 🌱 I’m currently learning MatLab, and I prefer studing in practice.  
 - 💞️ I’m looking to collaborate on Echoer Project, Argus Project, WorkOutHelper Project...
 - 📫 You can twitter me, @NanCunChild is me. Or Telegram, the same nickname.
 - If you are Chinese, QICQ:1729138395 is an altnetive idea.
-- <a src="nancunchild.top">Welcome to visit my website!</a>
+- And, One More Thing. I am just a hungry and tired collage student, not a full-time programmer. If you like my projects and not as hungry as I am, you can be one of my sponser.
+- BTC: bc1q33l3s53j0tg9p6vp95qypr6jsqrdjujf4rm87x (You Must Be A Big Fish!)
+- ETH: 0x9c16660F4A679DDED618d8DE73e78cE6dd17e437
+- ETC: 0x9c16660F4A679DDED618d8DE73e78cE6dd17e437
+- <a src="nancunchild.top">Welcome to visit my website</a>
