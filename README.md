@@ -5,7 +5,7 @@
 # Want To Get In Touch With Me?
 - Telegram: @NanCunChild
 - X: @NanCunChild
-- If you are Chinese, OICQ:1729138395 is an altnetive idea.
+- If you are Chinese, OICQ:1729138395 is an alternative idea.
 
 # V me 50
 - I am just a hungry and tired collage student, not a full-time programmer. If you like my projects and not as hungry as I am, you can be one of my sponser.
