@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=NanCunChild&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true)   
+![Stats](https://github-readme-stats.vercel.app/api?username=NanCunChild&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true&theme=radical)   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NanCunChild)](https://git.io/streak-stats)
 
