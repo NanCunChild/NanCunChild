@@ -6,6 +6,9 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NanCunChild)](https://github.com/NanCunChild/github-profile-trophy) -->
 
+# NO LDBP RALATED QUESTENS
+- I no longer dev the ldbp projects (yes it is archived), do not view me as a consulter of it. It is annoying.
+
 # Want To Get In Touch With Me?
 - Telegram: <a href="https://t.me/NanCunChild">@NanCunChild</a>
 - X: <a href="https://twitter.com/NanCunChild">@NanCunChild</a>
