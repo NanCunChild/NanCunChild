@@ -1,8 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=NanCunChild&show_icons=true&icon_color=47A69E&title_color=47A69E&count_private=true&theme=radical)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanCunChild&theme=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NanCunChild)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NanCunChild&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanCunChild&theme=github&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NanCunChild&theme=github&utcOffset=8)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanCunChild&layout=compact&theme=buefy&hide_border=true)   
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NanCunChild)](https://github.com/NanCunChild/github-profile-trophy) -->
 
