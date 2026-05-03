@@ -1,8 +1,8 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanCunChild&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanCunChild&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NanCunChild&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanCunChild&theme=github&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NanCunChild&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NanCunChild&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanCunChild&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NanCunChild&theme=nord_dark&utcOffset=8)
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NanCunChild)](https://github.com/NanCunChild/github-profile-trophy) -->
